@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">iconButton</string>
+    <string name="close">Cerrar</string>
+    <string name="back">Volver</string>
+    <string name="mario">Mario</string>
+    <string name="luigi">luigi</string>
+    <string name="peach">peach</string>
+    <string name="bowser">bowser</string>
+</resources>
